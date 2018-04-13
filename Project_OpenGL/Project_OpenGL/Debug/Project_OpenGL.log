@@ -1,0 +1,25 @@
+﻿  main.cpp
+d:\uni work\gps\project_opengl\project_opengl\shader.h(65): warning C4101: 'infoLog': unreferenced local variable
+d:\uni work\gps\project_opengl\project_opengl\shader.h(64): warning C4101: 'success': unreferenced local variable
+d:\uni work\gps\project_opengl\project_opengl\main.cpp(45): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+d:\uni work\gps\project_opengl\project_opengl\main.cpp(46): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+d:\uni work\gps\project_opengl\project_opengl\main.cpp(333): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+d:\uni work\gps\project_opengl\project_opengl\main.cpp(517): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+d:\uni work\gps\project_opengl\project_opengl\main.cpp(518): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+d:\uni work\gps\project_opengl\project_opengl\main.cpp(522): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+d:\uni work\gps\project_opengl\project_opengl\main.cpp(523): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+d:\uni work\gps\project_opengl\project_opengl\main.cpp(525): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+d:\uni work\gps\project_opengl\project_opengl\main.cpp(526): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+d:\uni work\gps\project_opengl\project_opengl\main.cpp(535): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+d:\uni work\gps\project_opengl\project_opengl\main.cpp(701): warning C4305: 'argument': truncation from 'double' to 'float'
+d:\uni work\gps\project_opengl\project_opengl\main.cpp(702): warning C4305: 'argument': truncation from 'double' to 'float'
+d:\uni work\gps\project_opengl\project_opengl\main.cpp(713): warning C4305: 'argument': truncation from 'double' to 'float'
+d:\uni work\gps\project_opengl\project_opengl\main.cpp(714): warning C4305: 'argument': truncation from 'double' to 'float'
+d:\uni work\gps\project_opengl\project_opengl\main.cpp(721): warning C4305: 'argument': truncation from 'double' to 'float'
+d:\uni work\gps\project_opengl\project_opengl\main.cpp(722): warning C4305: 'argument': truncation from 'double' to 'float'
+d:\uni work\gps\project_opengl\project_opengl\main.cpp(729): warning C4305: 'argument': truncation from 'double' to 'float'
+d:\uni work\gps\project_opengl\project_opengl\main.cpp(730): warning C4305: 'argument': truncation from 'double' to 'float'
+d:\uni work\gps\project_opengl\project_opengl\main.cpp(792): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+d:\uni work\gps\project_opengl\project_opengl\main.cpp(794): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+d:\uni work\gps\project_opengl\project_opengl\main.cpp(683): warning C4172: returning address of local variable or temporary: arr
+  Project_OpenGL.vcxproj -> D:\Uni work\gps\Project_OpenGL\Debug\Project_OpenGL.exe
